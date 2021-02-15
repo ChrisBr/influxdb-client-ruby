@@ -1,5 +1,8 @@
 ## 1.12.0 [unreleased]
 
+### Features
+1. [#69](https://github.com/influxdata/influxdb-client-ruby/pull/69): Created `influxdb-client-apis` package for Management API
+
 ## 1.11.0 [2021-01-29]
 
 ### CI
